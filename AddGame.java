@@ -216,7 +216,6 @@ public class AddGame extends JFrame implements ActionListener {
             } else {
                 l1.setText("Lose the Game");
             }
-
         }
     }
 
