@@ -117,5 +117,3 @@ appletviewer RGB.java
 
 
 
-
-
